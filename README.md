@@ -1,4 +1,3 @@
-https://arthurvni.github.io/site_iphone/
 # site_iphone
 Site desenvolvido na aula de Introdução à Tecnologia Web
 Periodo: 1° 
